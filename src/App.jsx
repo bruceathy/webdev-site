@@ -5,8 +5,10 @@ import "./App.css";
 function App() {
   return (
     <div className="background-space">
-      <Header />
-      <MainSec />
+      <div className="container">
+        <Header />
+        <MainSec />
+      </div>
     </div>
   );
 }
