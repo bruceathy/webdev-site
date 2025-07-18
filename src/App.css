@@ -74,3 +74,12 @@ header h1 {
   padding: 0.8rem 0;
   font-size: 3rem;
 }
+
+.social-logo {
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.social-logo:hover {
+  filter: invert(0.2);
+}
