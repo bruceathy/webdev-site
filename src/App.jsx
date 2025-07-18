@@ -5,13 +5,11 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="background-space">
-      <div className="container">
-        <Header />
-        <Navbar />
-        <MainSec />
-      </div>
-    </div>
+    <main>
+      <Header />
+      <Navbar />
+      <MainSec />
+    </main>
   );
 }
 
