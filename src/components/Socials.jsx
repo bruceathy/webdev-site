@@ -11,12 +11,12 @@ export default function Socials() {
         </a>
       </li>
       <li>
-        <a href="https://www.linkedin.com/in/bruce-athy/">
+        <a href="https://www.linkedin.com/in/bruce-athy-0838b7281/">
           <img src={linkedin} alt="linkedin" className="social-logo" />
         </a>
       </li>
       <li>
-        <a href="https://twitter.com/BruceAthy">
+        <a href="https://twitter.com/breezytresbeau">
           <img src={xlogo} alt="x" className="social-logo" />
         </a>
       </li>

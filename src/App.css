@@ -31,7 +31,7 @@ header {
 
 header h1 {
   font-size: 7rem;
-  line-height: 6rem;
+  line-height: 4.7rem;
 }
 
 .dark {
@@ -143,8 +143,8 @@ header h1 {
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
+  height: 1.9rem;
+  width: 2rem;
   left: 4px;
   bottom: 4px;
   background-color: white;
@@ -156,11 +156,11 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-  transform: translateX(26px);
+  transform: translateX(24px);
 }
 
 .slider.round {
-  border-radius: 34px;
+  border-radius: 8rem;
 }
 
 .slider.round:before {
