@@ -1,6 +1,6 @@
 import Socials from "./Socials.jsx";
 import profilepic from "../assets/profile.jpeg";
-
+// MAKE THIS COMPONENT DRAG & DROP
 export default function Main() {
   return (
     <div className="hero">
